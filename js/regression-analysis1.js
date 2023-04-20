@@ -1,4 +1,4 @@
-function linearRegression(values_x, values_y) {
+ffunction linearRegression(values_x, values_y) {
   var sum_x = 0;
   var sum_y = 0;
   var sum_xy = 0;
@@ -52,7 +52,7 @@ const trace11 = {
   y: kwhs,
   mode: "markers",
   marker: {
-    color: "red",
+    color: "mediumorchid",
     size: 8
   },
   name: "True consume"
@@ -79,7 +79,7 @@ const trace12 = {
   y: kWhs,
   mode: "markers",
   marker: {
-    color: "red",
+    color: "mediumorchid",
     size: 8
   },
   name: "True consume"

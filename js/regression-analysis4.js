@@ -52,7 +52,7 @@ const trace11 = {
   y: kwhs,
   mode: "markers",
   marker: {
-    color: "red",
+    color: "cadetblue",
     size: 8
   },
   name: "True consume"
@@ -79,7 +79,7 @@ const trace12 = {
   y: kWhs,
   mode: "markers",
   marker: {
-    color: "red",
+    color: "cadetblue",
     size: 8
   },
   name: "True consume"
